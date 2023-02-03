@@ -22,3 +22,6 @@ testa
 hej igen 
 bla bla
 >>>>>>> 7fa8a7befd7a7dcf7a8b4923ea262be8f4cfd79a
+
+
+2345678
